@@ -1,0 +1,7 @@
+numba
+DI-engine
+gym==0.25.1
+gym[box2d]
+stable-baselines3
+sb3-contrib
+opencv-python
