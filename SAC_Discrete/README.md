@@ -16,6 +16,7 @@ conda activate SAC
 To install the dependencies (CUDA version is 12.1):
 
 ```
+cd SAC_Discrete
 sudo apt install -y python3-opengl xvfb swig
 pip install -r requirements.txt
 ```
