@@ -4,6 +4,6 @@ This GitHub repository contains the work for the COMP3340 Group 9's group projec
 
 ### Structure
 
-[SAC_Discrete](SAC_Discrete/README.md): the implementation of Discrete Soft Actor-Critic algorithm and the experiments along with the results used in **midterm report** and the **final presentaion**
+[SAC_Discrete](SAC_Discrete/README.md): This folder contains the implementation of Discrete Soft Actor-Critic algorithm and the experiments along with the results used in **midterm report** and the **final presentaion.**
 
-[PPO](PPO/README.md): the implemetation of PPO algorithm and the results used in **midterm report** and the **final presentation**.
+[PPO](PPO/README.md): This folder contains the implemetation of PPO algorithm and the results used in **midterm report** and the **final presentation**.
