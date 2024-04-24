@@ -1,4 +1,4 @@
-# SAC-Discrete - COMP3340 Group Project
+# SAC-Discrete
 
 ## Overview
 
