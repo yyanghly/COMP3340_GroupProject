@@ -2,7 +2,7 @@
 
 ## Overview
 
-This directory contains the work for the COMP3340 course's group project. This repo focuses on the implementation of Discrete Soft Actor-Critic algorithm.
+This repo focuses on the implementation of Discrete Soft Actor-Critic algorithm.
 
 ## Installation
 
