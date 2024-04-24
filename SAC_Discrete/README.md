@@ -1,8 +1,17 @@
 # SAC-Discrete
 
-## Overview
-
 This directory focuses on the implementation of Discrete Soft Actor-Critic algorithm.
+
+## Directory Structure
+
+```
+SAC_Discrete
+├── image 
+├── README.md
+├── SAC.py		# Implementation of SAC and its robustness study
+├── requirements.txt
+└── trained_models	# Trained model for all the experiments shown below
+```
 
 ## System specification
 
@@ -61,6 +70,8 @@ THe script used in final presentation to introduce random engine failure is:
 ```
 python SAC.py -n=10000 -ef=0.1 -sn="SAC_engine_failure_0.1"
 ```
+
+
 
 ## Results
 
