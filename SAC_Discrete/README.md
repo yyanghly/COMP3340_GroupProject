@@ -4,6 +4,10 @@
 
 This directory focuses on the implementation of Discrete Soft Actor-Critic algorithm.
 
+## System specification
+
+The code and the results are tested and trained on `Ubuntu 22.04`, with `CUDA 12.1` and `python 3.7`, using `NVIDIA GeForce RTX 4090`.
+
 ## Installation
 
 It is recommended to create a new conda environment to run the project.
@@ -13,7 +17,7 @@ conda create -n SAC python=3.7
 conda activate SAC
 ```
 
-To install the dependencies (CUDA version is 12.1):
+To install the dependencies :
 
 ```
 cd SAC_Discrete
