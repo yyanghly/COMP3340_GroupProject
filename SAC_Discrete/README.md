@@ -59,19 +59,17 @@ Specifically, the script used in midterm report is:
 python SAC.py -n=2000
 ```
 
-And the script used in final presentation to introduce noisy observation is
+And the script used in final presentation to introduce noisy observation is (take noise 0.01 as an example)
 
 ```
 python SAC.py -n=10000 -noise=0.01 -sn="SAC_noise_0.01"
 ```
 
-THe script used in final presentation to introduce random engine failure is:
+The script used in final presentation to introduce random engine failure is (take engine failure rate 0.1 as an example):
 
 ```
 python SAC.py -n=10000 -ef=0.1 -sn="SAC_engine_failure_0.1"
 ```
-
-
 
 ## Results
 
