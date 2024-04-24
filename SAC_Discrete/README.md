@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repo focuses on the implementation of Discrete Soft Actor-Critic algorithm.
+This directory focuses on the implementation of Discrete Soft Actor-Critic algorithm.
 
 ## Installation
 
