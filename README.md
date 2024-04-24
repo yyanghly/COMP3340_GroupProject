@@ -6,9 +6,9 @@ The repo consists of two subfolders within the root directory, each containing s
 
 ## Folder Structure
 
-[SAC_Discrete](SAC_Discrete/README.md): This folder contains the implementation of the Discrete Soft Actor-Critic algorithm, the experiments conducted during the project, as well as the results used for the **midterm report** and the **final presentation**.
+[SAC_Discrete](SAC_Discrete): This folder contains the implementation of the Discrete Soft Actor-Critic algorithm, the experiments conducted during the project, as well as the results used for the **midterm report** and the **final presentation**.
 
-[PPO](PPO/README.md): This folder contains the implemetation of the PPO algorithm and the results used in **midterm report** and the **final presentation**.
+[PPO](PPO): This folder contains the implemetation of the PPO algorithm and the results used in **midterm report** and the **final presentation**.
 
 ## Notes
 
