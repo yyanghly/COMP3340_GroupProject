@@ -1,6 +1,6 @@
 # COMP3340 Group Project - Group 9
 
-This GitHub repository encompasses the work done by Group 9 for the COMP3340 group project.
+This [GitHub repository](https://github.com/yyanghly/COMP3340_GroupProject/tree/main) encompasses the work done by Group 9 for the COMP3340 group project.
 
 The repo consists of three subfolders within the root directory, each containing specific components related to the implemented algorithms and experiment results.
 
