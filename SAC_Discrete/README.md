@@ -2,11 +2,11 @@
 
 ## Overview
 
-This GitHub repository contains the work for the COMP3340 course's group project. This repo focuses on the implementation of Discrete Soft Actor-Critic algorithm.
+This directory contains the work for the COMP3340 course's group project. This repo focuses on the implementation of Discrete Soft Actor-Critic algorithm.
 
 ## Installation
 
-It is recommended to create a new conda environment to run the project. 
+It is recommended to create a new conda environment to run the project.
 
 ```
 conda create -n SAC python=3.7
